@@ -58,12 +58,6 @@ This course provided hands-on experience with modern ML workflows for analyzing 
 
 ---
 
-## 📚 Key Resources  
-
-- **Libraries**: OpenCV, librosa, PyTorch Lightning, Flash  
-
----
-
 
 ## 💡 Competencies Gained  
 - **Data-Centric ML**: Preprocessing pipelines for unstructured data  
