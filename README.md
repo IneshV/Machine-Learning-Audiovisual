@@ -54,25 +54,16 @@ This course provided hands-on experience with modern ML workflows for analyzing 
 | **Face Detection** | Implemented Haar cascades & deep learning models for face recognition | OpenCV, CNN |  
 | **Audio Feature Extraction** | Analyzed MFCCs & spectral features for audio classification | librosa, scipy |  
 | **Image Classification** | Built CNN pipelines for digit recognition | TensorFlow, Keras |  
-| **Final Project** | End-to-end ML system for multimedia analysis (customizable focus) | PyTorch, OpenCV, librosa |  
 
-[📁 Sample Code & Notebooks](https://drive.google.com/drive/u/1/folders/1z9eMlKhQKrNmJ6G0yJXxA5L7F9vYXXj9)  
 
 ---
 
 ## 📚 Key Resources  
-- **Course Materials**: [Colab Notebooks](https://colab.research.google.com/drive/10x0B_ibkzyzyMKww3UyVJPChM8FefwPq)  
-- **Datasets**: MNIST, LibriSpeech, facial recognition datasets  
+
 - **Libraries**: OpenCV, librosa, PyTorch Lightning, Flash  
 
 ---
 
-## 🏆 Final Project Highlights  
-- **Proposal**: Designed scope for audio-visual analysis system  
-- **Implementation**: Integrated image/audio pipelines with ML models  
-- **Delivery**: Technical paper + production-ready code ([Example](https://github.com/example/final-project))  
-
----
 
 ## 💡 Competencies Gained  
 - **Data-Centric ML**: Preprocessing pipelines for unstructured data  
