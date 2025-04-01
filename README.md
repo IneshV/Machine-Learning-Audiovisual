@@ -1,4 +1,4 @@
-# QAC239-01-Fa2022: Machine Learning Methods for Audio and Video Analysis
+# Machine Learning Methods for Audio and Video Analysis
 
 A project-driven proseminar course focusing on **applying machine learning techniques to audio and visual data**. Topics include optimization, template matching, face detection, audio feature extraction, CNNs, and end-to-end multimedia analysis projects.
 
